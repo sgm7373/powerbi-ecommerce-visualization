@@ -5,7 +5,7 @@ This project presents a visual analytics solution for e-commerce data using **Po
 
 ## 🔎 Preview
 
-![Dashboard Preview](Screenshot 2024-04-30 165741.png)
+![Dashboard Preview](./Screenshot%202024-04-30%20165741.png)
 
 ## 🧰 Tools & Technologies
 - **Power BI** – For interactive dashboard design and KPI tracking  
