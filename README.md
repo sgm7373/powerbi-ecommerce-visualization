@@ -3,6 +3,10 @@
 
 This project presents a visual analytics solution for e-commerce data using **Power BI** and **ParaView**. It explores sales trends, customer behavior, and product category performance through both 2D and 3D visualizations.
 
+## 🔎 Preview
+
+![Dashboard Preview](Screenshot 2024-04-30 165741.png)
+
 ## 🧰 Tools & Technologies
 - **Power BI** – For interactive dashboard design and KPI tracking  
 - **ParaView** – For 3D glyph-based visualizations and spatial data insights  
